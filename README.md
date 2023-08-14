@@ -40,10 +40,10 @@ cd projects/musician_company
 
 4. Follow the instructions in the project's README to:
 
-- Review the Business Requirement Document (BRD).
-- Create an Entity-Relationship Diagram (ERD) based on the BRD.
-- Map the ERD to a Database Schema.
-- Implement the schema in SQL Server.
+    - Review the Business Requirement Document (BRD).
+    - Create an Entity-Relationship Diagram (ERD) based on the BRD.
+    - Map the ERD to a Database Schema.
+    - Implement the schema in SQL Server.
 
 5. Repeat the process for other projects to practice different scenarios.
 
