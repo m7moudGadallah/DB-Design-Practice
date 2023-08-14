@@ -1,5 +1,7 @@
 # DB Design Practice
 
+> _💡Note: I'm Currenlty working on it_
+
 <!-- TOC -->
 
 - [DB Design Practice](#db-design-practice)
@@ -19,6 +21,9 @@ Practice designing relational databases by creating ERDs from Business Requireme
 ## Projects
 
 - **_[Musician Company](./projects/musician_company/)_**
+- **_Sales office_** `On progress`
+- **_Hospital_** `Todo`
+- **_Airline_** `Todo`
 
 Explore the collection of projects to practice your database design skills:
 
