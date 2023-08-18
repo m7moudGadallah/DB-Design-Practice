@@ -8,6 +8,7 @@
     - [Table of Centent](#table-of-centent)
     - [Business Requirement](#business-requirement)
     - [Entity-Relationship Diagram ERD](#entity-relationship-diagram-erd)
+    - [Database Schema](#database-schema)
 
 <!-- /TOC -->
 
@@ -34,5 +35,11 @@ this organization:
 ## Entity-Relationship Diagram (ERD)
 
 ![ERD](./design/sales_office_erd.png)
+
+**_[&uarr; top](#table-of-centent)_**
+
+## Database Schema
+
+![Schema](./design/sales_office_schema.png)
 
 **_[&uarr; top](#table-of-centent)_**
