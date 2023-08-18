@@ -9,6 +9,7 @@
     - [Business Requirement](#business-requirement)
     - [Entity-Relationship Diagram ERD](#entity-relationship-diagram-erd)
     - [Database Schema](#database-schema)
+    - [Normalization](#normalization)
 
 <!-- /TOC -->
 
@@ -41,5 +42,13 @@ this organization:
 ## Database Schema
 
 ![Schema](./design/sales_office_schema.png)
+
+**_[&uarr; top](#table-of-centent)_**
+
+## Normalization
+
+After applying first, second and thrid form of normalization we get this new schema:
+
+![Normalized-Schema](./design/sales_office_schema_normalized.png)
 
 **_[&uarr; top](#table-of-centent)_**
