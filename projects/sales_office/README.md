@@ -7,6 +7,7 @@
 - [Project: Musician Company Database](#project-musician-company-database)
     - [Table of Centent](#table-of-centent)
     - [Business Requirement](#business-requirement)
+    - [Entity-Relationship Diagram ERD](#entity-relationship-diagram-erd)
 
 <!-- /TOC -->
 
@@ -27,5 +28,11 @@ this organization:
 - Each property may have zero or more owners. Attributes of owners are Owner_ID and
   Owner_Name. An owner may own one or more properties. The system stores the percent owned
   by each owner in each property
+
+**_[&uarr; top](#table-of-centent)_**
+
+## Entity-Relationship Diagram (ERD)
+
+![ERD](./design/sales_office_erd.png)
 
 **_[&uarr; top](#table-of-centent)_**
