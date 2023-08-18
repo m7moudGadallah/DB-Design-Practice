@@ -1,15 +1,16 @@
-# Project: Musician Company Database
+# Project: Sales Office
 
 ## Table of Centent
 
 <!-- TOC -->
 
-- [Project: Musician Company Database](#project-musician-company-database)
+- [Project: Sales Office](#project-sales-office)
     - [Table of Centent](#table-of-centent)
     - [Business Requirement](#business-requirement)
     - [Entity-Relationship Diagram ERD](#entity-relationship-diagram-erd)
     - [Database Schema](#database-schema)
     - [Normalization](#normalization)
+    - [EERD Enhanced ER Diagram](#eerd-enhanced-er-diagram)
 
 <!-- /TOC -->
 
@@ -50,5 +51,11 @@ this organization:
 After applying first, second and thrid form of normalization we get this new schema:
 
 ![Normalized-Schema](./design/sales_office_schema_normalized.png)
+
+**_[&uarr; top](#table-of-centent)_**
+
+## EERD (Enhanced ER Diagram)
+
+![EERD](./design/sales_office_eerd.png)
 
 **_[&uarr; top](#table-of-centent)_**
